@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/first-angular-project.iml" filepath="$PROJECT_DIR$/.idea/first-angular-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/security/security.iml" filepath="$PROJECT_DIR$/security/security.iml" />
     </modules>
   </component>
 </project>
